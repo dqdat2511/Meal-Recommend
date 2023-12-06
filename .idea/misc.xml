@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_angle_left.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_carrot.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_carrot1.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_gg.xml" value="0.1775" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_pan (1).xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_pan.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_search.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/ic_user_svgrepo_com.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/round_back_home_100.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/round_btn.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/drawable/round_btn_1.xml" value="0.195" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_buttom_bar.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_chi_tiet_dinh_duong.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_gio_hang.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_khai_bao.xml" value="0.264" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_material.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_material_admin.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_material_admin2.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_nutritous.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_profile.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_sign_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_slash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/chitietdinhduong_item.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/dfdfdf.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/fragment_item_list.xml" value="0.2359375" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/marterial_item.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/quocd/AndroidStudioProjects/QLDD/app/src/main/res/menu/mymenu.xml" value="0.25" />
+        <entry key="..\:/Users/quocdat/AndroidStudioProjects/QLDD/app/src/main/res/layout/marterial_item.xml" value="0.21195652173913043" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

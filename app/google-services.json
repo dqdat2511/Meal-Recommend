@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364242496101",
+    "firebase_url": "https://qldd-71e45-default-rtdb.firebaseio.com",
+    "project_id": "qldd-71e45",
+    "storage_bucket": "qldd-71e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364242496101:android:be45398979061a698b748c",
+        "android_client_info": {
+          "package_name": "com.example.qldd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364242496101-1ohdrbvcog8ljheqkatisn106fjqdr20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qldd",
+            "certificate_hash": "ce7f907f0b96f0992183f0668056eef3f5594f6a"
+          }
+        },
+        {
+          "client_id": "364242496101-5808u4c2p4c5jek35ee9hqqsaa4q6h3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfydyW7J47ZdocPC5-aRNkWwzE3a8TViE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364242496101-5808u4c2p4c5jek35ee9hqqsaa4q6h3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
